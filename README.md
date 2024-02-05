@@ -1,0 +1,10 @@
+# Simon Game - Embedded Computing in Engineering Design
+Watch the system in action:
+
+https://filippomarcantoni.wixsite.com/portfolio-fmarcanto/portfolio-collections/my-portfolio/simon-game-embedded-systems
+
+To learn more about the process and development of the game, please refer to the project report found in the repository.
+
+
+### Further Notes
+In this project I created my first game using the MSP430F5529 Launchpad-based Lab Board. I was able to make a Simon program where a sequence of LEDS would light up, each with a different buzzer pitch, and a user would input corresponding numbers on the keypad to match the sequence. Every time a user would input the correct sequence, the sequence would be incremented with another LED and would get faster. I also configured the push buttons on the board to act as a reset button at any moment in the program. I implemented this using the C language and practiced using state machines, port configurations, and writing functions.
